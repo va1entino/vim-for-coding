@@ -422,7 +422,6 @@ map <C-h> <C-W>h
 map <C-l> <C-W>l
 map <C-n> :bnext<cr>
 map <C-p> :bprev<cr>
-map <C-w> :w<cr>
 " select all
 map <Leader>sa ggVG
 map <Leader>i :noh<cr>
