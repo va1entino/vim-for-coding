@@ -96,7 +96,7 @@ curl https://raw.githubusercontent.com/Leptune/vim-for-coding/master/install.sh|
 `<C-l>`      | `<C-x><C-o>`               | 插入模式下提示函数参数信息
 
 ## 注意事项
-- 该配置参考了 [wklken/vim-for-server](https://github.com/wklken/vim-for-server) 的配置
+- 该配置参考了 [Leptune/vim-for-server](https://github.com/Leptune/vim-for-coding) 的配置
 - 详细配置，请查看vimrc文件！
 
 ## License
